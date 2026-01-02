@@ -19,8 +19,8 @@ How to Run
 
 - Place your text inside sample_text.txt
 
-   Make sure the file path in the code matches your file location:
-   FILE_PATH = "/content/sample_text.txt"
+   - Make sure the file path in the code matches your file location:
+   - FILE_PATH = "/content/sample_text.txt"
 
 - Run the script:
-   python analyzer.py
+   - python analyzer.py
