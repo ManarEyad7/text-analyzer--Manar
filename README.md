@@ -15,7 +15,7 @@ For each method, the script outputs:
 - Top 10 most frequent words (ignoring punctuation)
 
 
-- How to Run
+How to Run
 
 Place your text inside sample_text.txt
 
