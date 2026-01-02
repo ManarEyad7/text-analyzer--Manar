@@ -1,4 +1,4 @@
-# Text Analyzer (Rule-based & NLTK)
+# Text Analyzer
 
 This project analyzes a text file using **two different methods**:
 
