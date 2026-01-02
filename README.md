@@ -1,4 +1,5 @@
 # Text Analyzer
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11rsVSMS2WEQsrVraUNC4O4LBlNpXbcvq?usp=sharing)
 
 This project analyzes a text file using **two different methods**:
 
@@ -14,6 +15,7 @@ For each method, the script outputs:
 - Sentence count
 - Top 10 most frequent words (ignoring punctuation)
 
+---
 
 How to Run
 
